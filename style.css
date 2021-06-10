@@ -8,8 +8,8 @@ body{
 } 
 #camera
 {
-    width:400px;
-    height: 300px;
+    width: 360px;
+    height: 250px;
     border:1px solid grey;
 }
 #logo_img
